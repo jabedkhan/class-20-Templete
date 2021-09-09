@@ -1,0 +1,39 @@
+.navbar-brand img{
+    width: 40px;
+}
+.main-menu{
+    background-color: #e3f2fd;
+}
+.toast-container{
+    width: ;
+}
+.breadcrumb{
+    background-color: #e9ecef;
+}
+.carousel-inner{
+    height: 500px;
+}
+.footer{
+    background-color: #17a2b8;
+}
+
+.scrollspy-example{
+    position: relative;
+    height: 220px;
+    overflow: auto;
+}
+.btn-group a{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.btn-group li:hover > a{
+    background-color: #ddd;
+}
+.footer{
+    background-color: #17a2b8;
+}
+.footer h4{
+    font-weight: 400;
+}
